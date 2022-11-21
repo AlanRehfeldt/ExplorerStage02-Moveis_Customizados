@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="Imagem da landing page" src="./image1" width="100%">
+  <img alt="Imagem da landing page" src="./image1.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
